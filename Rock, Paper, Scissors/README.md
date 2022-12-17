@@ -1,5 +1,5 @@
 # Rock, Paper, Scissors Game
-simple JS & HTML - no CSS
+simple HTML & CSS with JS coding
 
 ### Tutorial Here:
 https://www.youtube-nocookie.com/embed/ec8vSKJuZTk?list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&autoplay=1&iv_load_policy=3&loop=1&modestbranding=1&start=

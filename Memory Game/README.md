@@ -4,7 +4,7 @@ simple JS & HTML - no CSS
 ### Tutorial Here:
 https://www.youtube-nocookie.com/embed/ec8vSKJuZTk?list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&autoplay=1&iv_load_policy=3&loop=1&modestbranding=1&start=
 * starts: 18:44
-* ends: 1:04:22
+* ends: 1:04:38
 
 ### What I changed:
 * Christmas theme
