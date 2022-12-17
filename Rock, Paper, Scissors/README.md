@@ -6,6 +6,9 @@ https://www.youtube-nocookie.com/embed/ec8vSKJuZTk?list=RDCMUC8butISFwT-Wl7EV0hU
 * starts: 3:31
 * ends: 18:43
 
+### What I changed:
+* nothing - used this tutorial "as is"
+
 ### What I learned:
 * solidified understanding of .innerHTML
 * remembered 'defer' for js script in html
